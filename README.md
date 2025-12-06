@@ -31,6 +31,9 @@ The **AI-Powered Automated Question Paper Generator** addresses the critical pai
 
 The system allows educators to generate multiple unique question sets (Set A, B, C) with granular control over difficulty levels and question types, reducing a 4.5-hour manual task to approximately 12 seconds.
 
+![ScreenRecording2025-12-07012404-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d78adbfe-b9bf-4c5f-81fb-befc53b9f8dd)
+
+
 ---
 
 ## ✨ Key Features
